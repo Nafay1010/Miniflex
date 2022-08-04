@@ -1,0 +1,11 @@
+============Computer Organization and Assembly Language============
+Assign1	3
+Assign2	1
+Quiz1	6
+Quiz2	9
+S1	9
+Assign3	2
+OBTAINED MARKS: 30
+GRAND TOTAL: 60
+PERCENTAGE: 50
+OBTAINED GRADE: E

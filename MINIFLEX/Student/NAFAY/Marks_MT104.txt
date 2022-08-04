@@ -1,0 +1,10 @@
+============LINEAR ALGEBRA============
+Assign1	8
+Assign2	5
+Quiz1	9
+Quiz2	9
+S1	10
+OBTAINED MARKS: 41
+GRAND TOTAL: 50
+PERCENTAGE: 82
+OBTAINED GRADE: B
