@@ -1,0 +1,11 @@
+============Discrete Structure============
+Assign1	7
+Assign2	6
+Quiz1	10
+Quiz2	1
+S1	1
+Assign3	9
+OBTAINED MARKS: 34
+GRAND TOTAL: 60
+PERCENTAGE: 56.6667
+OBTAINED GRADE: E

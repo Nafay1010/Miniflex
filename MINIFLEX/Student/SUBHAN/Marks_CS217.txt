@@ -1,0 +1,9 @@
+============Object Oreinted Programming============
+Assign1	6
+Assign2	8
+Quiz1	4
+Quiz2	6
+OBTAINED MARKS: 24
+GRAND TOTAL: 40
+PERCENTAGE: 60
+OBTAINED GRADE: D

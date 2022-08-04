@@ -1,0 +1,102 @@
+----------------------------------------------------------------------------------
+---------------------------------SEMESTER-1---------------------------------------
+----------------------------------------------------------------------------------
+
+Code	Course Name					CrdHrs		Type
+CL117	Intro to Info. and Comm. Technologies		1		Core
+CL118	Programming Fundamentals - Lab			1		Core
+CL217	Object Oriented Programming - Lab		1		Core
+CS118	Programming Fundamentals			3		Core
+EE117	Applied Physics					3		Core
+MT119	Calculus and Analytical Geometry		3		Core
+SL150	English Composition and Comprehension - Lab	1		Core
+SS113	Pakistan Studies				3		Core
+SS150	English Composition and Comprehension		2		Core
+ 
+---------------------------------------------------------------------------------
+--------------------------------SEMESTER-2---------------------------------------
+---------------------------------------------------------------------------------
+
+Code	Course Name					CrdHrs		Type
+CL217	Object Oriented Programming - Lab		1		Core
+CS217	Object Oriented Programming			3		Core
+EE227	Digital Logic Design				3		Core
+EL227	Digital Logic Design - Lab			1		Core
+MT224	Differential Equations (Cal II)			3		Core
+SL152	Communication & Presentation Skills - Lab	1		Core
+SS111	Islamic and Religious Studies			3		Core
+SS114	Human Ethics and Behavior			3		Core
+SS118	Psychology					3		Elective
+SS127	Sociology					3		Elective
+SS152	Communication & Presentation Skills		2		Core
+
+---------------------------------------------------------------------------------
+--------------------------------SEMESTER-3---------------------------------------
+---------------------------------------------------------------------------------
+
+Code	Course Name					CrdHrs		Type
+CL218	Data Structures - Lab				1		Core
+CS211	Discrete Structures				3		Core
+CS218	Data Structures					3		Core
+EE213	Comp. Organization and Assembly Lang.		3		Core
+EE229	Comp. Organization and Assembly Lang		3		Core
+EL213	Comp. Organization and Assembly Lang. Lab	1		Core
+EL229	Comp. Organization and Assembly Lang-Lab	1		Core
+MG103	Finance and Accounting				3		Elective
+MG220	Marketing Management				3		Elective
+MG223	Fundamentals of Management			3		Core
+MG414	Entrepreneurship				3		Elective
+MT104	Linear Algebra					3		Core
+SS118	Psychology					3		Elective
+SS127	Sociology					3		Elective
+
+--------------------------------------------------------------------------------
+--------------------------------SEMESTER-4--------------------------------------
+--------------------------------------------------------------------------------
+
+Code	Course Name					CrdHrs		Type
+CL219	Database Systems - Lab				1		Core
+CL220	Operating Systems - Lab				1		Core
+CS219	Database Systems				3		Core
+CS220	Operating Systems				3		Core
+CS302	Design and Analysis of Algorithms		3		Core
+EE229	Comp. Organization and Assembly Lang		3		Core
+EL229	Comp. Organization and Assembly Lang-Lab	1		Core
+MT206	Probability and Statistics			4		Core
+
+------------------------------------------------------------------------------
+--------------------------------SEMESTER-5------------------------------------
+------------------------------------------------------------------------------
+
+Code	Course Name					CrdHrs		Type
+CL307	Computer Networks Lab				1		Core
+CS301	Theory of Automata				3		Core
+CS307	Computer Networks				3		Core
+CS324	Software Design and Analysis			3		Core
+CS325	Numerical Computing				3		Core
+SS142	Technical Report Writing			3		Core
+
+------------------------------------------------------------------------------
+-------------------------------SEMESTER-6-------------------------------------
+------------------------------------------------------------------------------
+
+Code	Course Name					CrdHrs		Type
+CS326	Parallel and Distributed Computing		3		Core
+CS328	Software Engineering				3		Core
+CS461	Artificial Intelligence				3		Core
+
+------------------------------------------------------------------------------
+-------------------------------SEMESTER-7-------------------------------------
+------------------------------------------------------------------------------
+
+Code	Course Name					CrdHrs		Type
+CS462	Information Security				3		Core
+CS463	Professional Practices				3		Core
+CS491	Project - I					3		Core
+
+------------------------------------------------------------------------------
+-------------------------------SEMESTER-8-------------------------------------
+------------------------------------------------------------------------------
+
+Code	Course Name					CrdHrs		Type
+CS492	Project - II					3		Core
