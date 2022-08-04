@@ -1,0 +1,11 @@
+FullName: Shahzad Khan
+CAMPUS: Peshawar
+GENDER: Male
+COURSE-TAUGHT: Programming Fundamentals
+CNIC: 12311-1231431-1
+EMAIL: shahzad.khan@nu.edu.pk
+MOBILE_NO: 0332131313
+HOME-ADDRESS: Peshawar
+NATIONALITY: PAKISTAN
+DEPARTMENT: COMPUTER-SCIENCE
+

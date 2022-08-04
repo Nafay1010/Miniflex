@@ -1,0 +1,11 @@
+NAME	10/10/2020	11/10/2020	12/10/2020	13/10/2020	14/10/2020	15/10/2020	16/10/2020	
+nafay	P		P		P		P		P		P		A		
+usman	P		P		P		A		P		P		A		
+qamnber	P		A		P		P		A		P		A		
+subhan	P		P		P		P		P		P		A		
+ahmed	P		P		P		P		P		P		A		
+ali	P		A		A		A		A		P		A		
+yasir	P		P		P		P		P		P		A		
+arsalan	A		P		A		P		A		P		A		
+jawad	P		P		P		P		A		P		A		
+omer	A		P		A		P		P		P		A		

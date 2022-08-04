@@ -1,0 +1,11 @@
+NAME	LAB01		LAB02		LAB03		LAB04		LAB05		LAB06		LAB07		
+nafay	8		5		9		1		1		10		9		
+usman	7		6		10		2		2		9		7		
+qamnber	9		7		2		3		3		8		6		
+subhan	6		8		4		4		4		7		5		
+ahmed	5		4		5		5		5		6		3		
+ali	4		6		1		6		6		5		8		
+yasir	10		3		2		7		7		4		2		
+arsalan	2		7		4		8		8		3		5		
+jawad	3		1		6		9		9		9		6		
+omer	8		3		10		10		10		10		7		

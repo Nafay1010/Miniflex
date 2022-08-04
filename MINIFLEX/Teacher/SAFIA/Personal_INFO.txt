@@ -1,0 +1,11 @@
+FullName: Safia Fatima
+CAMPUS: Peshawar
+GENDER: Female
+COURSE-TAUGHT: Object-Oriented-Programming
+CNIC: 12311-1231431-1
+EMAIL: safia.fatima@nu.edu.pk
+MOBILE_NO: 0312131313
+HOME-ADDRESS: Peshawar
+NATIONALITY: PAKISTAN
+DEPARTMENT: COMPUTER-SCIENCE
+

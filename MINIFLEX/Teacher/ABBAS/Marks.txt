@@ -1,0 +1,11 @@
+NAME	Assign1		Assign2		Quiz1		Quiz2		S1		
+nafay	8		5		9		9		10		
+usman	7		6		10		1		9		
+qamnber	9		7		2		2		8		
+subhan	6		8		4		3		7		
+ahmed	5		4		5		4		6		
+ali	4		6		1		5		5		
+yasir	10		3		2		6		4		
+arsalan	2		7		4		7		3		
+jawad	3		1		6		9		9		
+omer	8		3		10		2		10		

@@ -1,0 +1,11 @@
+FullName: Ahmed Tariq
+CAMPUS: Peshawar
+GENDER: Male
+COURSE-TAUGHT: Computer Organization and Assembly Language
+CNIC: 12311-123113121-1
+EMAIL: Ahmed.Tariq@nu.edu.pk
+MOBILE_NO: 01231312313
+HOME-ADDRESS: Peshawar
+NATIONALITY: PAKISTAN
+DEPARTMENT: COMPUTER-SCIENCE
+
